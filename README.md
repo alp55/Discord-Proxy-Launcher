@@ -1,7 +1,4 @@
 # Discord Proxy Launcher
-### Discord Proxy Başlatıcı
-
-Tags/Etiketler: `#discord-proxy` `#proxy-manager` `#goodbydpi` `#isp-bypass` `#ssl-proxy` `#python` `#network-tools` `#proxy-automation` `#türkçe` `#proxy-validator`
 
 This project helps bypass ISP restrictions for Discord access by temporarily using SSL proxies in conjunction with GoodbyDPI. It automatically manages the proxy connection process during Discord launch and removes the proxy once the connection is established.
 
